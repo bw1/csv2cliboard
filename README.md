@@ -1,4 +1,4 @@
-## csv2clipboard
+## csv2cliboard
 
 ### convertiert folgendes
 *	utf8 -> latin1
